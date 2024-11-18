@@ -1,4 +1,24 @@
-Asked these questions:
+Phaerda Asked these questions JavaScript:
 
-what is hoisting in javascriot?
+
+what is hoisting in javascript?
+
+type of: null, undefined, "string", {}, []
+
+difference between function and arrow function
+
+array [0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0]  how to get return in one digit 1. mtlb is me 1 sab se zyada kitni bar aik sath hai uska return nikalna.
+
+what is OOP in javascript?
+
+how to get index of array value?
+
+how to get vowels from a string? asked from my name: "Hafsa"
+
+itrattion based IQ tha 8 balls ki appearance same hai sabka weight b same hai bas aik ball ka weight sab se kuch kam hai to hum kitni itrration me find kren gen k in sab se me kis ball ka weight sab ki nisbat kam hai?
+
+
+array[...] what are 3 dots in array what is the purpose of these 3 dots?
+
+
 
