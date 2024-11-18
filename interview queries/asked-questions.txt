@@ -17,8 +17,16 @@ how to get vowels from a string? asked from my name: "Hafsa"
 
 itrattion based IQ tha 8 balls ki appearance same hai sabka weight b same hai bas aik ball ka weight sab se kuch kam hai to hum kitni itrration me find kren gen k in sab se me kis ball ka weight sab ki nisbat kam hai?
 
-
 array[...] what are 3 dots in array what is the purpose of these 3 dots?
+
+ternary operators kya hoty hen?
+
+what are truthy and falsy values in javaScript?
+
+var let const me kya different hai?
+
+
+
 
 
 
