@@ -1,0 +1,66 @@
+By mentor Shahid Nadeem:    BLOCK LEVEL AND INLINE ELEMENTS:
+
+
+block level elements: ye pury block ki space len gen text chahy 4,5 words ka hi q nah ho.
+
+div
+h1 to h6
+p
+header
+footer
+article
+aside
+form
+mian
+ul
+li
+ol
+nav
+table
+section
+hr
+
+
+
+
+inline elements: jitna text hai bas utni space len gen.
+
+input
+label
+a
+span
+strong  
+img
+br
+button
+script
+video
+audio
+i     itelic
+b     bold
+iframe            --------it embed external docuemnt in our html file.
+
+
+
+
+
+
+CSS Responsive measurment units:
+
+rem for font size
+
+height vh  ---------heihgt: 100vh        ~~~~~~~~~~~~~class 21
+
+width vw  ----------width: 100vw	~~~~~~~~~~~~~~class 21
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+Asked these questions:
+
+what is hoisting in javascriot?
+
