@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get & Print Value on DOM</title>
+
+    <!-- link css -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="main-cont">
+
+            <div class="get-input box">
+                <form action="#" autocomplete="off">
+
+                    <div class="same">
+                        <label for="name">Name:</label>
+                        <input type="text" placeholder="Enter your full name" id="name">
+                        <span id="name-error">*Required</span>
+                    </div>
+
+                    <div class="same">
+                        <label for="name">Email:</label>
+                        <input type="email" placeholder="Enter your email address" id="email">
+                        <span id="email-error">*Required</span>
+                    </div>
+
+                    <div class="same">
+                        <label for="name">Password:</label>
+                        <input type="password" placeholder="Enter your password" id="password">
+                        <span id="pwd-error">*Required</span>
+                    </div>
+
+                    <button type="button" id="btn">Submit</button>
+                </form>
+            </div>
+
+        </div>
+
+        <div class="data">
+            <div class="print-input">
+                <div class="print">
+                    <label for="#">Name:</label>
+                    <p id="p-name"></p>
+                </div>
+
+                <div class="print">
+                    <label for="#">Email:</label>
+                    <p id="p-email"></p>
+                </div>
+                
+                <div class="print">
+                    <label for="#">Passwsord:</label>
+                    <p id="p-password"></p>
+                </div>
+
+                <button type="button" id="done">Done</button>
+            </div>
+        </div>
+    </div>
+ 
+    
+
+
+
+
+
+    <!-- link js -->
+    <script src="./main.js"></script>
+</body>
+</html>
