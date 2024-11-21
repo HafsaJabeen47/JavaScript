@@ -42,6 +42,7 @@
     border: 0;
     outline: 0;
     border-radius: 3px;
+    margin: 5px 0;
 }
 
 .same input:focus{
@@ -65,15 +66,6 @@
 .box button:hover{
     background-color: black;
     color: white;
-}
-
-span{
-    color: red;
-    font-size: 13px;
-    position: relative;
-    left: 232px;
-    top: -20px;
-    visibility: hidden;
 }
 
 /* print-input */
@@ -133,4 +125,12 @@ span{
 .print-input button:hover{
     background-color: black;
     color: white;
+}
+
+.error{
+    color: red;
+    font-size: 13px;
+    position: relative;
+    left: 235px;
+    top: -26px;
 }
